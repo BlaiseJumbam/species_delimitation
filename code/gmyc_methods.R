@@ -1,0 +1,1 @@
+gmyc(tr, method = "single", interval = c(0, 5), quiet = FALSE)
